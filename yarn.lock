@@ -9,10 +9,10 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@fern-api/belvo@^0.0.20":
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/@fern-api/belvo/-/belvo-0.0.20.tgz#b2bed8b58fbc24469545f3fc876ad234041b07d4"
-  integrity sha512-C8hzvVeZaI2UETL8C4h5LHbyZwebCBEpAAFJM4lZn/5D/vt4grkFl+sMosw4P8Rge192U1Ih9QSRAJDNknuLrg==
+"@fern-api/belvo@^0.0.24":
+  version "0.0.24"
+  resolved "https://registry.yarnpkg.com/@fern-api/belvo/-/belvo-0.0.24.tgz#2904c949c045d33fbc11c1954e3f4ad638eca19d"
+  integrity sha512-EY65EWQRfq9orDPN/hXe8QKm+2pzbWZkT9I7POR6jXM8TtiaA1Uhn3D3JF/UA9dt9QGbnRRDb8v2upvZmej/WA==
   dependencies:
     "@types/url-join" "4.0.1"
     "@ungap/url-search-params" "0.2.2"
