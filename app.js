@@ -6,6 +6,7 @@ async function main() {
         secretPassword: "YOUR_SECRET_PASSWORD",
         environment: BelvoEnvironment.Sandbox,
     });
+    belvo;
     const link = await belvo.links.registerLink({
         institution: "banamex_mx_retail",
         username: "username",
